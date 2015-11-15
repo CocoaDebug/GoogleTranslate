@@ -8,7 +8,7 @@ Google Translate 源代码
 ---
 
 - 介绍: 因为工作原因, 接触到很多英文, 遇到不太懂的会上网找翻译. 目前我发现翻译最准确的还是Google翻译, 但每次需要翻译时都需要打开浏览器有些麻烦, 于是自己开发了一款Mac应用内置Google翻译, 超级实用
-- 下载地址: [Google Translate](http://share.weiyun.com/ad92f95c3e9d333e351bfcd351adf45b)  (`没钱买Mac开发证书, 上不了AppStore的架`)
+- App下载地址: [Google Translate](http://share.weiyun.com/ad92f95c3e9d333e351bfcd351adf45b)  (`没钱买Mac开发证书, 上不了AppStore的架`)
 
 ---
 

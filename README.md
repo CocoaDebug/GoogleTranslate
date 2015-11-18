@@ -10,6 +10,9 @@ Google Translate 源代码
 - 介绍: 因为工作原因, 接触到很多英文, 遇到不太懂的会上网找翻译. 目前我发现翻译最准确的还是Google翻译, 但每次需要翻译时都需要打开浏览器有些麻烦, 于是自己开发了一款Mac应用内置Google翻译, 超级实用
 - App下载地址: [Google Translate](http://share.weiyun.com/ad92f95c3e9d333e351bfcd351adf45b)  (`没钱买Mac开发证书, 上不了AppStore的架`)
 
+软件截图:
+![](http://7sbo4v.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202015-11-18%20%E4%B8%8A%E5%8D%8811.57.44.png)
+
 ---
 
 ##### 提示: 如果出现安装失败, 请前往"系统偏好设置--->安全性与隐私"允许非AppStore的软件运行, 如图:

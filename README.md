@@ -1,7 +1,7 @@
 Google Translate source-code
 ================
 
-# Without having to open the browser, just open Mac application and you can easily use Google-translation service
+### Without having to open the browser, just open Mac application and you can easily use Google-translation service
 
 `PS: I once has downloaded an application which built-in Google-translation service from Mac App Store. Unfortunately, the developer is not chinese and he did not consider China's national conditions, so I just can't use his app unless I open VPN`
 

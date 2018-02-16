@@ -1,7 +1,7 @@
 Google Translate source-code
 ================
 
-###[Download Here](https://github.com/liman123/GoogleTranslate/raw/master/Google%20Translate.app.zip)  
+### [Download Here](https://github.com/liman123/GoogleTranslate/raw/master/Google%20Translate.app.zip)  
 
 (`No money to buy Mac development certificate, can't in the Mac App Store shelves`)
 

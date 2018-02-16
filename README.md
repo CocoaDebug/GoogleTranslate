@@ -1,4 +1,4 @@
-Google Translate source-code
+Google Translate
 ================
 
 ### [Download Here](https://github.com/liman123/GoogleTranslate/raw/master/Google%20Translate.app.zip)  

@@ -11,24 +11,19 @@
 
 @implementation MDAppDelegate
 
-- (void)applicationDidFinishLaunching:(NSNotification *)aNotification
-{
+- (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
 	NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"https://translate.google.cn/"]];
 	[self.webView.mainFrame loadRequest:request];
 }
 
-- (BOOL)applicationShouldHandleReopen:(NSApplication *)theApplication hasVisibleWindows:(BOOL)flag
-{
-    if(!flag)
-    {
+- (BOOL)applicationShouldHandleReopen:(NSApplication *)theApplication hasVisibleWindows:(BOOL)flag {
+    if (!flag) {
         id window;
-        for(window in theApplication.windows)
-        {
+        for(window in theApplication.windows) {
             NSWindow *w = window;
             [w makeKeyAndOrderFront:self];
         }
     }
-    
     return YES;
 }
 

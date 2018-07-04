@@ -1,3 +1,7 @@
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/DebugWidget/GoogleTranslate/master/logo.png"/>
+</p>
+
 Google Translate
 ================
 

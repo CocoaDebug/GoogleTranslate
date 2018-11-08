@@ -28,7 +28,7 @@
 		<true/>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2018 liman. All rights reserved.</string>
+	<string>版权所有2018 Google Inc. 保留所有权利。</string>
 	<key>NSMainNibFile</key>
 	<string>Main</string>
 	<key>NSPrincipalClass</key>

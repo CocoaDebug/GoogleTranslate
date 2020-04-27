@@ -12,7 +12,7 @@
 @implementation MDAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
-	NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"https://translate.google.com/?hl=en"]];
+	NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"https://translate.google.cn/"]];
 	[self.webView.mainFrame loadRequest:request];
 }
 

@@ -5,10 +5,6 @@
 Google Translate
 ================
 
-### [Download Here](https://github.com/CocoaDebug/GoogleTranslate/raw/master/GoogleTranslate.zip)
-
-### Just use Google Translate without VPN at all.
-
 ---
 
 ![](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/image1.png)

@@ -5,6 +5,8 @@
 Google Translate
 ================
 
+[Download Link](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/Google%20Translate.app.zip)
+
 ---
 
 ![](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/image1.png)

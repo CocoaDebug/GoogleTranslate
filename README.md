@@ -9,7 +9,7 @@ Google Translate
 
 ---
 
-![](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/image1.png)
+![](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/image3.png)
 
 ---
 

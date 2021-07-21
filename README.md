@@ -5,7 +5,7 @@
 Google Translate
 ================
 
-- [Download Link](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/Google%20Translate%20(Chinese%20version).zip)
+- [Download Link](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/Google%20Translate.zip)
 - [Download Link (Chinese version)](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/Google%20Translate%20(Chinese%20version).zip)
 
 ---

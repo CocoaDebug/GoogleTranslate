@@ -16,6 +16,8 @@ Google Translate
 
 #### If the installation fails, go to "System Preferences ---> Security and Privacy" allow non-AppStore software to run.
 
-[How to download apps from anywhere](https://macpaw.com/how-to/allow-apps-anywhere)
-
 ![](https://raw.githubusercontent.com/CocoaDebug/GoogleTranslate/master/image2.png)
+
+##### Reference URL:
+- [https://macpaw.com/how-to/allow-apps-anywhere](https://macpaw.com/how-to/allow-apps-anywhere)
+- [https://macwk.com/article/macos-file-damage](https://macwk.com/article/macos-file-damage)
